@@ -1,9 +1,9 @@
 <h1 align="center">Salve 👋, me chamo Mateus Firmino</h1>
-<h3 align="center">Eu sou apaixonado pela analise de dados, acredito que as analises são ferramentas poderosas para melhorar o desempenho de qualquer organização. Aficionado por esportes tradicionais e eletrônicos.</h3>
+<h3 align="center">Eu sou apaixonado por tecnologia, acredito que a tecnologia é uma ferramenta poderosa para melhorar o desempenho de qualquer organização.</h3>
 
 - 🔭 Atualmente estou com analise estatística e visual de e-sports. **Projeto de analises de dados de CS:GO**
 
-- 🌱 Atualmente estou aprendendo **SQL, Python, Javascript e HTML**
+- 🌱 Atualmente estou aprendendo **SQL, Python, DJANGO Framework, Javascript, HTML, CSS e REACT**
 
 - 💬 Me pergunte sobre **Excel, Power BI, Google DataStudio e Data Visualization.**
 
